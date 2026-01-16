@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack - Multi-Card Expense Manager",
+  "description": "A sophisticated credit card expense and bill tracking application that consolidates all your cards into a single dashboard. Features real-time spending insights, bill reminders, and AI-powered financial advice.",
+  "requestFramePermissions": []
+}
